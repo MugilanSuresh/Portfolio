@@ -77637,7 +77637,7 @@ $S:8}
 A.agf.prototype={
 $2(a,b){var s,r=null
 if(b.a===B.P){s=A.dA(30)
-return A.a2(r,A.ma(A.cF("    Resume    ",r,r,A.bg(r,r,B.m,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r),new A.agc(),r),B.h,r,new A.bZ(B.Hz,r,r,s,r,r,B.av),r,new A.a6(0,15,0,0),r,r)}return A.a2(r,r,B.h,r,r,r,r,r,r)},
+return A.a2(r,A.ma(A.cF("    RESUME    ",r,r,A.bg(r,r,B.m,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r),new A.agc(),r),B.h,r,new A.bZ(B.Hz,r,r,s,r,r,B.av),r,new A.a6(0,15,0,0),r,r)}return A.a2(r,r,B.h,r,r,r,r,r,r)},
 $S:8}
 A.agc.prototype={
 $0(){A.Uw("https://drive.google.com/file/d/1VoUkdWeccwntgGrs-tFTj8VNGqpQmYPl/view?usp=sharing")},
